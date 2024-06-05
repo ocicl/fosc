@@ -1,0 +1,9 @@
+* fosc
+
+Efficient OSC for Common Lisp
+
+|---------+------------------------------------------|
+| source  | git:https://github.com/8c6794b6/fosc.git |
+| commit  | f723b7b                                  |
+| systems | fosc                                     |
+|---------+------------------------------------------|
